@@ -1,0 +1,7 @@
+﻿main.obj : error LNK2019: unresolved external symbol TTF_Init referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol TTF_OpenFont referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol TTF_RenderText_Solid referenced in function "void __cdecl renderText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct SDL_Rect)" (?renderText@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@USDL_Rect@@@Z)
+main.obj : error LNK2019: unresolved external symbol TTF_CloseFont referenced in function "void __cdecl kill(void)" (?kill@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol TTF_Quit referenced in function "void __cdecl kill(void)" (?kill@@YAXXZ)
+C:\Users\markb\source\repos\Boids\SDL2\lib\x64\SDL_ttf.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\markb\source\repos\Boids\x64\Debug\Boids.exe : fatal error LNK1120: 5 unresolved externals

@@ -1,0 +1,6 @@
+﻿main.obj : error LNK2001: unresolved external symbol TTF_Init
+main.obj : error LNK2001: unresolved external symbol TTF_RenderText_Solid
+main.obj : error LNK2001: unresolved external symbol TTF_CloseFont
+main.obj : error LNK2001: unresolved external symbol TTF_OpenFont
+main.obj : error LNK2001: unresolved external symbol TTF_Quit
+C:\Users\markb\source\repos\Boids\x64\Release\Boids.exe : fatal error LNK1120: 5 unresolved externals

@@ -1,0 +1,11 @@
+﻿  display.cpp
+C:\Users\markb\source\repos\Boids\display.cpp(68,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\markb\source\repos\Boids\display.cpp(69,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\markb\source\repos\Boids\display.cpp(72,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\markb\source\repos\Boids\display.cpp(73,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\markb\source\repos\Boids\display.cpp(76,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\markb\source\repos\Boids\display.cpp(77,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\markb\source\repos\Boids\main.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Boids.vcxproj -> C:\Users\markb\source\repos\Boids\Debug\Boids.exe
